@@ -14,8 +14,11 @@ TikTok clone written in Flutter :D
 - **Authentication**: Firebase Auth
 - **Cloud functions**: Firebase using Typescript
 - **Notifications**: Firebase Cloud Messaging
-]
+
 ## Features
+- ### Upload tiktoks
+  A user can upload short videos (tiktoks)! In contrast to the real TikTok, a user can only upload existing videos from the device's gallery for simplicity.
+  
 - ### Feeds
   There are 2 main feeds on TikTok:
     - **For You**: Shows recommended tiktoks (short videos).
@@ -61,4 +64,4 @@ https://github.com/user-attachments/assets/69a868c0-a2f4-4302-85da-e7be5f9a51ef
 
 
 ## Disclaimer
-This is a very simple TikTok clone. I only included the basic features since Tiktok has many many features and the goal for this project, just as many other projects, was to learn more, when I made this project I was just getting into mobile development.
+This is a very simple TikTok clone. I only included the basic features since Tiktok has many many features and the goal for this project, just as many other projects, was to learn more, when I did this project I was just getting into mobile development.
