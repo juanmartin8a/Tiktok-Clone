@@ -1,4 +1,4 @@
-# TikTok clone
+# TikTok Clone
 TikTok clone written in Flutter :D
 
   - ## Why
