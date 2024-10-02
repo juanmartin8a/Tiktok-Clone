@@ -1,16 +1,53 @@
-# tiktokClone
+# TikTok clone
+TikTok clone written in Flutter :D
 
-A new Flutter project.
+  - ## Why
+    Great project for learning mobile development!
 
-## Getting Started
+## Platforms
+- iOS
+- Android
 
-This project is a starting point for a Flutter application.
+## Tech used
+- **Frontend framework**: Flutter
+- **Main database**: Firebase Firestore
+- **Authentication**: Firebase Auth
+- **Cloud functions**: Firebase using Typescript
+- **Notifications**: Firebase Cloud Messaging
+]
+## Features
+- ### Feeds
+  There are 2 main feeds on TikTok:
+    - **For You**: Shows recommended tiktoks (short videos).
+    - **Following**: Shows tiktoks only from the people you follow.
 
-A few resources to get you started if this is your first Flutter project:
+- ### Follow system
+  A user can follow and unfollow other users.
+  
+- ### Chat system
+  A user can start a chat with any other user!
+ 
+- ### Likes and comments
+  You can like and comment on any clips and other users can also like and comment on yours! Comments can also be liked and replied.
+  
+- ### Follow system
+  A follow system is made to enable building relationships between users, it also helps with better videogame clip recommendations.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- ### Search
+  You can use the search feature to find users!
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ### Profile
+  In your profile and also on other people's profile you can see information such as:
+  - Name
+  - Username
+  - Bio
+  - Profile picture
+  - Follower count
+  - Follower list
+  - Following count
+  - Following list
+  - Like count (Amount of likes the user's tiktoks have)
+  - Uploaded tiktoks
+
+## Disclaimer
+This is a very simple TikTok clone. I only included the basic features since Tiktok has many many features and the goal for this project, just as many other projects, was to learn more, when I made this project I was just getting into mobile development.
