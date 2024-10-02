@@ -50,7 +50,7 @@ TikTok clone written in Flutter :D
   - Uploaded tiktoks
  
 ## Example Videos :)
-
+The app was tested using an android emulator in an old and saturated computer so the performance is terrible :). I sped up the videos 4x.
 
 https://github.com/user-attachments/assets/1df7e6da-2b93-4939-bde5-d992323d6e38
 
