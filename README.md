@@ -48,6 +48,17 @@ TikTok clone written in Flutter :D
   - Following list
   - Like count (Amount of likes the user's tiktoks have)
   - Uploaded tiktoks
+ 
+## Example Videos :)
+
+
+https://github.com/user-attachments/assets/1df7e6da-2b93-4939-bde5-d992323d6e38
+
+
+
+https://github.com/user-attachments/assets/69a868c0-a2f4-4302-85da-e7be5f9a51ef
+
+
 
 ## Disclaimer
 This is a very simple TikTok clone. I only included the basic features since Tiktok has many many features and the goal for this project, just as many other projects, was to learn more, when I made this project I was just getting into mobile development.
