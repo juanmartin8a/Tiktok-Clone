@@ -11,6 +11,7 @@ TikTok clone written in Flutter :D
 ## Tech used
 - **Frontend framework**: Flutter
 - **Main database**: Firebase Firestore
+- **File storage**: Firebase Storage
 - **Authentication**: Firebase Auth
 - **Cloud functions**: Firebase using Typescript
 - **Notifications**: Firebase Cloud Messaging
