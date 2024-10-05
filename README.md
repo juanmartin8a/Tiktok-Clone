@@ -1,4 +1,7 @@
-# TikTok Clone
+# TikTok Clone 
+![Started](https://img.shields.io/badge/Started-Sep%202020-blue%20green.svg)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-Oct%202020-blue.svg?color=informational)
+
 TikTok clone written in Flutter :D
 
   - ## Why
